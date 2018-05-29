@@ -1,14 +1,14 @@
 insert into vehicle
-values(1,'Honda', 'Car');
+values(101,'Honda', 'Car');
 
 insert into vehicle
-values(2,'Ford', 'Truck');
+values(102,'Ford', 'Truck');
 
 insert into vehicle
-values(3,'Boeing', 'Airplane');
+values(103,'Boeing', 'Airplane');
 
 insert into vehicle
-values(4,'Amphibian', 'Amphibian');
+values(104,'Amphibian', 'Amphibian');
 
 insert into vehicle
-values(5,'Boat', 'Boat');
+values(105,'Boat', 'Boat');
